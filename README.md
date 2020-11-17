@@ -26,7 +26,7 @@ We offer some examples for you test in a quick start.
 
 To synthsizing, you need to run:
 
-python3 test.py --model pretrained-model/model.ckpt-161000 --reference reference_audio/*.wav
+python3 test.py --model pretrained-model/model.ckpt-161000 --reference reference_audios/*.wav
 
 To synthsizing by your own model:
 
